@@ -1,3 +1,4 @@
+.vscode
 wandb-debug.log
 **/wandb/*
 !**/wandb/settings
